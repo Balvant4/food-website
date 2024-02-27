@@ -1,5 +1,5 @@
 import React from "react";
-import biryani2 from "../../public/food-images/biryani2.png";
+import { biryani2 } from "../../public/index";
 import Servicebox from "../components/Servicebox";
 import { GrSecure } from "react-icons/gr";
 import { IoFastFood } from "react-icons/io5";
